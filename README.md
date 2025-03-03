@@ -1,10 +1,49 @@
-- 👋 Hi, I’m @Mighty2423
-- 👀 I’m interested in ... gundams and fixinf peoples computers and getting them there files and memories back to them
-- 🌱 I’m currently learning ... computer information systems i have earned 
-- 💞️ I’m looking to collaborate on new systems
-- 📫 How to reach me ... alton65@live.com
+# Welcome to My GitHub Profile!
 
-<!---
-Mighty2423/Mighty2423 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Banner](https://your-image-url.com/banner.png)
+
+## About Me
+
+Hello! I'm Alton, a Computer Information Technology graduate with a passion for technology and helping others. I specialize in:
+
+- **Data Recovery**: Assisting individuals in retrieving their valuable files and memories.
+- **System Optimization**: Ensuring computers run efficiently and effectively.
+- **Software Development**: Creating applications that solve real-world problems.
+
+## Skills
+
+- **Programming Languages**: C#, Python, PowerShell
+- **Database Management**: SQL
+- **Web Development**: HTML, CSS, JavaScript
+- **Cybersecurity**: Implementing security measures and conducting audits
+
+## Projects
+
+Here are some of my notable projects:
+
+### [Project 1: Team-03-Musketeers](https://github.com/Mighty2423/team-03-musketeers)
+
+A collaborative Python project focusing on [brief description of the project].
+
+### [Project 2: CSE210-Projects](https://github.com/Mighty2423/cse210-projects)
+
+A collection of C# projects developed during my coursework in CSE210.
+
+### [Project 3: WDD130](https://github.com/Mighty2423/wdd130)
+
+Web development projects showcasing my skills in HTML and CSS.
+
+## Interests
+
+- **Gundams**: Enthusiast of Gundam models and series.
+- **Community Support**: Volunteering to assist community members with technical issues.
+
+## Contact Me
+
+I'm always open to collaborating on new systems and projects. Feel free to reach out:
+
+- **Email**: alton65@live.com
+- **LinkedIn**: [Your LinkedIn Profile URL]
+- **Portfolio**: [Your Portfolio URL]
+
+Let's connect and create something amazing together!
