@@ -23,15 +23,16 @@ Here are some of my notable projects:
 
 ### [Project 1: Team-03-Musketeers](https://github.com/Mighty2423/team-03-musketeers)
 
-A collaborative Python project focusing on [brief description of the project].
+A collaborative Python project focusing on Freak disasters is a gamified disaster training that has been the purpose of giving people opportunities 
+to see what would happen if they're in a real world disaster scenario. Such as hurricanes, tornadoes, earthquakes, floods, and wildfires.
 
 ### [Project 2: CSE210-Projects](https://github.com/Mighty2423/cse210-projects)
 
-A collection of C# projects developed during my coursework in CSE210.
+A collection of C# projects developed during my coursework in CSE210 at BYUI
 
 ### [Project 3: WDD130](https://github.com/Mighty2423/wdd130)
 
-Web development projects showcasing my skills in HTML and CSS.
+Web development projects showcasing my skills in HTML and CSS at BYUI WDD130 class
 
 ## Interests
 
