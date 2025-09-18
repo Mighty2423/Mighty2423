@@ -44,7 +44,7 @@ Web development projects showcasing my skills in HTML and CSS at BYUI WDD130 cla
 I'm always open to collaborating on new systems and projects. Feel free to reach out:
 
 - **Email**: alton65@live.com
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **Portfolio**: [Your Portfolio URL]
+- **LinkedIn**: www.linkedin.com/in/alton-s-white-v-089839134
+- **Portfolio**: https://www.whitev.wiki/
 
 Let's connect and create something amazing together!
