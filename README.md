@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile!
 
-![Profile Banner](https://your-image-url.com/banner.png)
-
 ## About Me
 
 Hello! I'm Alton, a Computer Information Technology graduate with a passion for technology and helping others. I specialize in:
